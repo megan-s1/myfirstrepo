@@ -1,3 +1,3 @@
-such changes
+git remote add origin git@github.com:megan-s1/myfirstrepo.gitsuch changes
 Adfla’dfkaj’sdfk
 Asdlfa’s
